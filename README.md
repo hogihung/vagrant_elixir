@@ -4,6 +4,8 @@ This repo was built to have a nice way for one to try out Elixir and Phoenix
 without having to install those tools on their computer.  As long as you have
 Vagrant working you should be good to go.
 
+You can find Vagrant [here](https://https://www.vagrantup.com/downloads.html) and Virtual Box [here](https://www.virtualbox.org/wiki/Downloads)
+
 Batteries are not included, but the following is:
 
 * Ubuntu 14.04 64-bit (based off of the box: "bento/ubuntu-14.04"
